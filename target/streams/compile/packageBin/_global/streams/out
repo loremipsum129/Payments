@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\prog\Scala\SimCorpTestTask\target\scala-2.13\simcorptesttask_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculatePayments$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\CalculatePayments$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculatePayments$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\CalculatePayments$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculatePayments$$anonfun$apply$2$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\CalculatePayments$$anonfun$apply$2$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculatePayments$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\CalculatePayments$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculatePayments$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\CalculatePayments$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CalculatePayments.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\CalculatePayments.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\SimCorpTestTask.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\META-INF\SimCorpTestTask.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimCorpTestTask$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\SimCorpTestTask$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimCorpTestTask.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\prog\Scala\SimCorpTestTask\target\scala-2.13\classes\SimCorpTestTask.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

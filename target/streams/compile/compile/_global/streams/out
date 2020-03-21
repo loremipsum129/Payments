@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0mE:\prog\Scala\SimCorpTestTask\src\main\scala\SimCorpTestTask.scala:19:63: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    println(CalculatePayments(agreementDate, calculationDate, initInv, intRate, invDur))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\prog\Scala\SimCorpTestTask\src\main\scala\SimCorpTestTask.scala:19:72: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    println(CalculatePayments(agreementDate, calculationDate, initInv, intRate, invDur))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\prog\Scala\SimCorpTestTask\src\main\scala\SimCorpTestTask.scala:19:81: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    println(CalculatePayments(agreementDate, calculationDate, initInv, intRate, invDur))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f24da34b-63bd-41d3-90c0-cda2bfd12f71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZO9nhbacd1nAKS2VbhUIRTN5rp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimCorpTestTask_dev" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Payments">
+    <configuration name="Payments" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Payments" />
+      <module name="Payments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SImCorpTestTask" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SImCorpTestTask" />
+      <module name="SimCorpTestTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimCorpTestTask" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SimCorpTestTask" />
+      <module name="SimCorpTestTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pureTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pureTest" />
+      <module name="SimCorpTestTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Payments" />
+        <item itemvalue="Application.SimCorpTestTask" />
+        <item itemvalue="Application.pureTest" />
+        <item itemvalue="Application.SImCorpTestTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Payments" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="payments [file:/E:/prog/Scala/Payments/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Payments-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3232042845" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../RSSTrendsParser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../RSStestProj" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ScalaCheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ScalaCheck2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../TestStandaloneApp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akkaHTTP/akka-http-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akkaHTTP/akka-http-quickstart-scala_pure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akkaQuickstart/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../casino" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course2/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course2/quickcheckStolenFromGithub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course2/quickcheckVanilla2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course3/barneshut" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course3/barneshutPure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course3/kmeans" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course3/kmeansPure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course3/reductions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course3/scalashop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course4/stackoverflow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../course4/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fuckingSpark" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fuckingSpark2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../liveApp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play/play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../eclipseScalaWorkspace/course4/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../eclipseScalaWorkspace/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../eclipseScalaWorkspace/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../eclipseScalaWorkspace/quickcheck2/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../eclipseScalaWorkspace/quicksheck2/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../eclipseScalaWorkspace/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../sbt/testCatsProject" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f24da34b-63bd-41d3-90c0-cda2bfd12f71" name="Default Changelist" comment="" />
+      <created>1584699441752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584699441752</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1584731861901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584731861901" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584725752827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584725752827" />
+    <state x="493" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584699473484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1584699473484" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584807621692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584807621692" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584810496825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584810496825" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584810496825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584810496825" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584810496825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584810496825" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584810496825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584810496825" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1584736731032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584736731032" />
+  </component>
+</project>
